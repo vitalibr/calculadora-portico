@@ -2,3 +2,10 @@ node_modules/
 dist/
 .DS_Store
 *.local
+
+# Nunca commitar arquivos de ambiente ou segredos
+.env
+.env.*
+*.pem
+*.key
+*.p12
