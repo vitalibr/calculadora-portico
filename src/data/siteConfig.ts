@@ -4,7 +4,7 @@
  */
 
 /** YouTube video ID for the gantry build video. Leave empty to show the placeholder. */
-export const YOUTUBE_VIDEO_ID = '';
+export const YOUTUBE_VIDEO_ID = 'dKqY33nhFFk';
 
 /** Channel and social links */
 export const YOUTUBE_CHANNEL_URL = 'https://www.youtube.com/@vmgarage_oficial';
